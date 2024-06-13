@@ -8,8 +8,6 @@ date: 2022-10-01
 location: "Warsaw, Poland"
 ---
 
-## Course Outline
-
 - **Unix-Based Operating Systems**
   - History of Unix
   - Properties of the Linux operating system

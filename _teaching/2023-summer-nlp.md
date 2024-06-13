@@ -8,8 +8,6 @@ date: 2024-03-01
 location: "Warsaw, Poland"
 ---
 
-## Course Outline
-
 - **Introduction and Word Vectors**
 
 - **Subword Models**

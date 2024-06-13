@@ -8,8 +8,6 @@ date: 2023-10-01
 location: "Warsaw, Poland"
 ---
 
-## Course Outline
-
 - **Model Evaluation and Selection**
   - Objective functions
   - Training/validation/test splits

@@ -8,8 +8,6 @@ date: 2023-10-01
 location: "Warsaw, Poland"
 ---
 
-## Course Outline
-
 - **Neural Network Fundamentals**
   - Activation functions
   - Loss functions
