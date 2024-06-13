@@ -21,7 +21,7 @@ repository               : "emiliawisnios/emiliawisnios.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.png"
+  avatar           : "bio-photo.jpg"
   name             : "Emilia Wiśnios"
   pronouns         : "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
