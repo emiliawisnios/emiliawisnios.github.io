@@ -7,7 +7,7 @@ The main goal of this paper is to unravel the specific nuances of such influence
 Our findings suggest, that while Big Tech-affiliated papers are disproportionately more cited in some areas, the most cited papers are those affiliated with both Big Tech and Academia. Focusing on the most contagious memes, their attribution to specific affiliation groups (Big Tech, Academia, mixed affiliation) seems to be equally distributed between those three groups. This suggests that the notion of Big Tech domination over AI research is oversimplified in the discourse.
 Ultimately, this more nuanced understanding of Big Tech's and Academia's influence could inform a more symbiotic alliance between these stakeholders which would better serve the dual goals of societal welfare and the scientific integrity of AI research."""
 date: 2023-12-20
-# venue: 'Journal 1'
+ venue: 'arxiv'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://arxiv.org/abs/2312.12881'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'

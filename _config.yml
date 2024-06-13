@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Emilia Wiśnios"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  #bio              : "Short biography for the left-hand sidebar"
   location         : "Warsaw, Poland"
-  employer         : ""
+  employer         : "TBA"
   uri              : # URL
-  email            : "none@example.org" 
+  #email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
