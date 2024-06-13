@@ -8,25 +8,4 @@ date: 2023-10-01
 location: "Warsaw, Poland"
 ---
 
-- **Neural Network Fundamentals**
-  - Activation functions
-  - Loss functions
-  - Optimizers
-  - Regularization
-
-- **Hardware and Software for Deep Learning**
-
-- **Convolutional Neural Networks (CNNs)**
-  - Image classification
-  - Object detection
-  - Image segmentation
-
-- **Recurrent Neural Networks (RNNs) and Transformers**
-
-- **Generative Adversarial Networks (GANs)**
-
-- **Reinforcement Learning**
-
-- **New Advancements in Neural Networks**
-
-- **Applications**
+Neural Network Fundamentals (Activation functions, Loss functions, Optimizers, Regularization), Hardware and Software for Deep Learning, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs) and Transformers, Generative Adversarial Networks (GANs), Reinforcement Learning, New Advancements in Neural Networks, Applications

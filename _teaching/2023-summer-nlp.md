@@ -8,25 +8,4 @@ date: 2024-03-01
 location: "Warsaw, Poland"
 ---
 
-- **Introduction and Word Vectors**
-
-- **Subword Models**
-
-- **Linguistic Structure**
-  - Dependency Parsing
-
-- **Recurrent Neural Networks (RNNs) and Language Models**
-
-- **Machine Translation**
-  - Sequence-to-Sequence (Seq2Seq) Models
-  - Attention Mechanisms
-
-- **Contextual Representations and Pretraining**
-
-- **Dialogue Systems**
-
-- **Natural Language Generation**
-
-- **Question Answering**
-
-- **Multitask Learning**
+Introduction and Word Vectors, Subword Models, Linguistic Structure (Dependency Parsing), Recurrent Neural Networks (RNNs) and Language Models, Machine Translation (Sequence-to-Sequence (Seq2Seq) Models, Attention Mechanisms), Contextual Representations and Pretraining, Dialogue Systems, Natural Language Generation, Question Answering, Multitask Learning

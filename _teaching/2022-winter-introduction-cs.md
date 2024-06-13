@@ -8,20 +8,4 @@ date: 2022-10-01
 location: "Warsaw, Poland"
 ---
 
-- **Unix-Based Operating Systems**
-  - History of Unix
-  - Properties of the Linux operating system
-
-- **Bash Shell**
-  - Basic commands
-  - Pipes and batch processing
-
-- **Regular Expressions**
-  - Construction
-  - Pattern matching
-
-- **Python Programming**
-  - Simple imperative programs
-  - Interactive interpreter and Python modules
-  - Library functions and writing new functions
-  - Loops and conditional expressions
+Unix-Based Operating Systems (History of Unix, Properties of the Linux operating system), Basic Unix Commands, Regular Expressions, Python Programming (Simple imperative programs, Interactive interpreter and Python modules, Library functions and writing new functions, Loops and conditional expressions)
